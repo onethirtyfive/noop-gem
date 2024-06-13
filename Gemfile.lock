@@ -1,0 +1,17 @@
+PATH
+  remote: .
+  specs:
+    noop (0.1.0)
+
+GEM
+  specs:
+
+PLATFORMS
+  arm64-darwin-23
+  ruby
+
+DEPENDENCIES
+  noop!
+
+BUNDLED WITH
+   2.5.9
